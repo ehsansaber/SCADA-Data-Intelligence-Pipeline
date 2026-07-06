@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```markdown
 <div align="center">
   
@@ -140,3 +141,7 @@ Summarize dataset: 100%|███████████████| 195/195 [
 *Specialized in Digital Twins, Deep Learning, and Metaheuristic Algorithms*
 
 Dedicated to bridging the gap between advanced machine learning algorithms and physical energy systems.
+=======
+# SCADA-Data-Intelligence-Pipeline
+A robust, modular pipeline for SCADA data preprocessing, anomaly detection, and predictive model benchmarking.
+>>>>>>> 3dc6d348c6b7e8e2a65f67872b20f438629dcff3

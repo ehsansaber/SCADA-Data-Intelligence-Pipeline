@@ -20,7 +20,6 @@ Thumbs.db
 data/raw/
 data/temp/
 *.csv
-*.html
 *.xlsx
 
 # --- Logs ---

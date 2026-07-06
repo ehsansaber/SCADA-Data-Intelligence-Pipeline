@@ -18,9 +18,11 @@ Thumbs.db
 
 # --- Data & Reports ---
 data/raw/
+data/processed/
 data/temp/
 *.csv
 *.xlsx
+*.html
 
 # --- Logs ---
 *.log

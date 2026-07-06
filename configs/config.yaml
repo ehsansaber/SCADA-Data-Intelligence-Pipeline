@@ -1,0 +1,13 @@
+data:
+  raw_path: "data/raw/scada_raw.csv"
+  target_column: "PowerOutput"
+  sampling_rate: "10s"
+
+turbine:
+  rated_power: 7
+  cut_in_speed: 3.0
+  cut_out_speed: 25.0
+
+preprocessing:
+  window_size: 5
+  z_threshold: 3.0
